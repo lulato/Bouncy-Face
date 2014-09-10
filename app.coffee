@@ -1,15 +1,6 @@
 # This imports all the layers for "bouncyFace" into bouncyfaceLayers
 bouncyface = Framer.Importer.load "imported/bouncyFace"
 
-# So to hide the layer for a group named "myFace" you can do:
-# bouncyface.myFace.visible = false
-
-# comment line
-
-# bouncyface.myFace.animate
-# 	properties:
-# 		x:400
-# 	curve: "spring()"
 
 bouncyface.myFace.draggable.enabled = true
 
