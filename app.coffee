@@ -1,3 +1,5 @@
+# this was an example given at Developers Talk in Sept 2014
+
 # This imports all the layers for "bouncyFace" into bouncyfaceLayers
 bouncyface = Framer.Importer.load "imported/bouncyFace"
 
